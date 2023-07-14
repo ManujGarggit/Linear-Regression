@@ -32,4 +32,4 @@
 - This is happening as our model is memorizing the training set values too well that gives us a low bias but it performs bad on general points (our model is becoming a overfit model).
 - The underfit models has high bias and low variance while the overfit models have low bias and high variance (this can be seen from the graph where the degree ~5 is the optimal degree where the plots of bias and variance intersect)
   
-![GRAPH]()
+![GRAPH](https://github.com/ManujGarggit/Linear-Regression/blob/master/img.png)
