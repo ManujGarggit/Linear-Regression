@@ -10,7 +10,7 @@
 - Variance measures error due to small fluctations in training set
 - Irreducible error represents the inherent noise or variability in the data that can't be explained by the features used in a model
 
-#### IMPLEMENTATIONS
+### IMPLEMENTATIONS
 
 - Calculated the values of bias , variance , mean squared error and irreducible error for the given training data and test data sets upto degree 15 polynomials.
 - To calculate these values the training set is divided into 20 random pieces and for each point the parameters are calculated by taking the avg of the results obtained in each piece (k-fold validation).
