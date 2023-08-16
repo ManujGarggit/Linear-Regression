@@ -8,7 +8,7 @@
 
 - Bias refers to error due to incorrect assumptions in learning algorithm
 - Variance measures error due to small fluctations in training set
-- Irreducible error represents the inherent noise or variability in the data that can't be explained by the features used in a model
+- Irreducible error represents the inherent noise or variability in the data that is not intended to be present in the first place but was introduced due to a faulty capturing process.
 
 ### IMPLEMENTATIONS
 
